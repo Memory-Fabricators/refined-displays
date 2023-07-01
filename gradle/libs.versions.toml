@@ -1,6 +1,6 @@
 [versions]
-kotlin = "1.8.10"
-ktlint = "11.1.0"
+kotlin = "1.8.22"
+ktlint = "11.4.2"
 
 minecraft = "1.19.3"
 qfapi = "5.0.0-beta.6+0.74.0-1.19.3"
